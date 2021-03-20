@@ -19,3 +19,6 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/identicon](https://hexdocs.pm/identicon).
 
+<h3> Test Images </h3>
+
+<img src = "test.png"> </img> <img src = "jee.png" style="margin: 50px"> </img>
